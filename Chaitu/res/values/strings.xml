@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chaitu</string>
+    <string name="hello_world">your result is</string>
+    <string name="action_settings">Settings</string>
+    <string name="badd">addButton</string>
+    <string name="bsub">subButton</string>
+    
+
+</resources>
