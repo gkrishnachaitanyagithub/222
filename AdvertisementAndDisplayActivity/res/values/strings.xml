@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tutorial1</string>
+    <string name="badd">addOne</string>
+    <string name="bsub">subOne</string>
+    <string name="hello_world">HELLO INDIA!(-.-)!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity3">Activity3</string>
+
+</resources>
